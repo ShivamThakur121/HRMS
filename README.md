@@ -42,7 +42,7 @@ The application simulates a basic internal HR tool focused on essential HR opera
 * Backend: Render
 
 ---
-##🔎 Backend Technology Note
+## Backend Technology Note
 
 The assessment mentioned Python (Full-Stack) as the preferred technology stack.
 
@@ -60,7 +60,7 @@ Employee data insights
 
 AI-driven HR assistants
 
-##🔮 Future Enhancements
+## Future Enhancements
 
 📊 Advanced analytics dashboard
 
