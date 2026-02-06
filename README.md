@@ -38,8 +38,8 @@ The application simulates a basic internal HR tool focused on essential HR opera
 
 ### Deployment
 
-* Frontend: Vercel / Netlify
-* Backend: Render / Railway
+* Frontend: Vercel 
+* Backend: Render
 
 ---
 
