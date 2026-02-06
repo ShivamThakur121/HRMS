@@ -42,6 +42,37 @@ The application simulates a basic internal HR tool focused on essential HR opera
 * Backend: Render
 
 ---
+🔎 Backend Technology Note
+
+The assessment mentioned Python (Full-Stack) as the preferred technology stack.
+
+For this implementation, I used Node.js with Express to rapidly develop scalable REST APIs and complete all HRMS modules within the given timeline.
+
+I am also comfortable working with Python backend frameworks such as FastAPI, Flask, and Django, and the system architecture is modular, allowing easy integration or migration of backend services to Python if required.
+
+Python services can be incorporated for advanced modules such as:
+
+Payroll analytics
+
+Automated reporting
+
+Employee data insights
+
+AI-driven HR assistants
+
+🔮 Future Enhancements
+
+📊 Advanced analytics dashboard
+
+🤖 AI chatbot for HR queries
+
+📄 Automated payslip generation
+
+🧠 Resume parsing & hiring module
+
+📱 Mobile responsive optimization
+
+---
 
 ## ✨ Features
 
@@ -171,8 +202,8 @@ http://localhost:5173
 
 ## 🌐 Deployment Links
 
-Frontend: **<Live Frontend URL>**
-Backend API: **<Live Backend URL>**
+Frontend: **<Live https://hrms-jdy6.vercel.app>**
+Backend API: **<Live https://hrms-backend-i7tw.onrender.com>**
 
 ---
 
